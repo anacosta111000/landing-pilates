@@ -2,7 +2,7 @@
 
 Landing page responsiva para um estúdio de pilates, criada como **projeto de demonstração para portfólio**. O estúdio, o endereço e os depoimentos são fictícios.
 
-**Demonstração ao vivo:** https://SEU-LINK-AQUI.netlify.app
+**Demonstração ao vivo:** https://studio-prumo-pilates.netlify.app/
 
 ## O que a página tem
 
@@ -65,4 +65,4 @@ As cores e fontes ficam no início de `src/styles.css`, nas variáveis `:root`.
 
 ## Autora
 
-Ana Clara, desenvolvedora. Contato: ADICIONE-SEU-LINKEDIN-OU-EMAIL
+Ana Clara, desenvolvedora.
